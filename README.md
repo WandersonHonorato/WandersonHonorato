@@ -15,6 +15,8 @@
   <img align="center" alt="Rafa-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="right" alt="Wanderson-pic" height="150" style="border-radius:50px;" 
+ src="https://media.fortniteapi.io/images/7d25200-76eb131-9df015b-bb60f15/transparent.png">
+
 </div>
   
   ##
