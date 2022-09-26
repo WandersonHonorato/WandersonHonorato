@@ -1,7 +1,8 @@
 ### Olá, Eu sou o Wanderson Honorato! 👋
 
-- 💻 Pretendo trabalhar como Front-end
-- 📚 Estudando Javascript
+- 🎓 Graduado em Administração;
+- 💻 Futuro dev Front-end;
+- 📚 Estudando HTML, CSS3, Javascript, Reactjs, React Native.
 
 <br>
 
