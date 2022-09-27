@@ -2,7 +2,7 @@
 
 - 🎓 Graduado em Administração;
 - 💻 Futuro dev Front-end;
-- 📚 Estudando HTML, CSS3, Javascript, Reactjs, React Native.
+- 📚 Estudando HTML, CSS3, SASS, Javascript, Reactjs, GIT.
 
 <br>
 
