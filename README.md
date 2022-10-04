@@ -21,9 +21,9 @@
   <img align="center" alt="Andin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Andin-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   
- <img align="right" alt="Wanderson-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="Wanderson-pic" height="120" style="border-radius:50%;" 
  src="https://media.fortniteapi.io/images/7d25200-76eb131-9df015b-bb60f15/transparent.png">
-</div>
+ </div> 
   
   ##
  
@@ -34,5 +34,6 @@
     <a href="https://www.linkedin.com/in/wanderson-honorato-5a6920190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/WandersonHonorato/WandersonHonorato/blob/output/github-contribution-grid-snake.svg)
+
 
