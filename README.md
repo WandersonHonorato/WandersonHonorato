@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/WandersonHonorato">
-  <img height="180m" src="[![Wanderson GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonHonorato)](https://github.com/WandersonHonorato/github-readme-stats)
+  <img height="180m" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?WandersonHonorato)](https://github.com/anuraghazra/github-readme-stats)
 "/>
   <img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats))"/>
 </div>
