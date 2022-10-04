@@ -10,8 +10,9 @@
   <a href="https://github.com/WandersonHonorato/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WandersonHonorato&repo=github-readme-stats" />
 </a>
-  <img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats))"/>
-</div>
+  <img height="180" <a href="https://github.com/WandersonHonorato/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?WandersonHonorato&repo=convoychat" />
+</a>
 
 ##
 
