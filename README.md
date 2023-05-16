@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Wanderson Honorato! 👋
 
 - 🎓 Graduado em Administração;
-- 💻 Futuro dev Front-end;
+- 💻 Graduando em Engenharia de Software;
 - 📚 Estudando HTML5, CSS3, SASS, Javascript, Reactjs, Typescript, GIT.
 
 <br>
