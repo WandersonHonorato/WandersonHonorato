@@ -2,7 +2,7 @@
 
 - 🎓 Graduado em Administração;
 - 💻 Graduando em Engenharia de Software;
-- 📚 Estudando HTML5, CSS3, SASS, Javascript, Reactjs, Typescript, GIT.
+- 📚 Estudando Spribg Boot, Spring Cloud, Postregs SQL, Docker e Kubernets, AWS, GIT e Design Patterns.
 
 <br>
 <div>
