@@ -2,7 +2,7 @@
 
 - 🎓 Graduado em Administração;
 - 💻 Graduando em Engenharia de Software;
-- 📚 Estudando Spribg Boot, Spring Cloud, Postregs SQL, Docker e Kubernets, AWS, GIT e Design Patterns.
+- 📚 Estudando Spring Boot, Spring Cloud, Postregs SQL, Microsserviões, AWS, Docker e Kubernets. 
 
 <br>
 <div>
