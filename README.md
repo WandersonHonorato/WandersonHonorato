@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Wanderson Honorato! 👋
 
-- 💻 Atualmente no 5º Semestre de Engenharia de Software;
+- 💻 Atualmente no º Semestre de Engenharia de Software;
 - 📚 Estudando Spring Boot, Spring Cloud, Microsserviços, AWS, Docker e Kubernets. 
 
 <br>
