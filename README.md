@@ -1,96 +1,69 @@
-### Olá, Eu sou o Wanderson Honorato! 👋
+### <h2>Olá, Eu sou o Wanderson Honorato! 👋<h2/> 
 
-💻 Sou desenvolvedor de software com foco em Full Stack (Java/Angular).
-<br>
-👨🏻‍🎓 Atualmente no 7º Semestre na graduaçãoo em Engenharia de Software;
-<br>
+💻 Sou desenvolvedor de software com foco em Full Stack (Java/Angular).<br>
+👨🏻‍🎓 Graduando em Engenharia de Software 7º semestre;<br>
 🚀 Estou iniciando minha carreira e sempre em busca de novos desafios e aprendizados. Sou uma pessoa dedicada, curiosa e apaixonada por resolver problemas através da tecnologia. 
 
+<p align="center">
+<strong>Stack tecnologia<strong/><br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
+<br><br><br>
+
+
+
+### <p>🚀 Projetos em Destaque</p>
+
+📝 To-Do List<br>
+Aplicação de lista de tarefas com Angular e PostgreSQL. Sistema completo de CRUD com autenticação JWT.
+
+🔥 CRUD Java + Angular<br>
+Sistema full stack de gerenciamento de usuários com Spring Boot e Angular. Arquitetura RESTful e boas práticas.
+
+🔢 Calculadora de IMC<br>
+Calculadora responsiva de Índice de Massa Corporal com classificação automática.
 <br>
-
-
 
 ##
-## 💻 Stack Tecnológica
 
-<p align="left">
+💡 Atualmente estudando:<br>
+<ul>
+<li>Para tirar certificação: WS Certified Cloud Practitioner
+<li>Java SE 21 Developer Professional Exam Number: 1Z0-830
+<li>Spring Security e Kafka
+</ul>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,angular,aws,rabbitmq,cypress,docker,git,mysql,postgres)](https://skillicons.dev) <p align="left">      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40"/>
+##
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-
-## 💻 Stack Tecnológica
-
-<p align="left">
-  <strong>Backend</strong>
+✍🏻 Contate-me:
 <br>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35"/>
+<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/275db658-42fb-4395-9803-c2adc550d087" />
+<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/71100247-2d5b-4341-9c5b-9479df95a3a4" />
+<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/2481ae60-1ea5-42c3-b99a-575b12033450" />
 
- <strong>Frontend</strong>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35"/>
+##
 
-
-<strong>Infra & Cloud</strong>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
- 
-<strong>Banco de Dados</strong>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
- 
-<strong>Testes</strong>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="35"/>
-   
-<strong>Versionamento de código</strong>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
-
-<strong>Menssageira</strong>
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="35"/> 
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40"/> 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40"/> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-
-
-</p>
+💬 "Investir em conhecimento rende sempre os melhores juros."
 
 
 
- ##   
 
-</p>
+
+
 
 
 
