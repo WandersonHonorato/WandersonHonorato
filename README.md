@@ -42,7 +42,7 @@ Calculadora responsiva de Índice de Massa Corporal com classificação automát
 💡 Atualmente estudando:<br>
 <ul>
 <li>Para tirar certificação: WS Certified Cloud Practitioner
-<li>Java SE 21 Developer Professional Exam Number: 1Z0-830
+<li>>Para tirar certificação: Java SE 21 Developer Professional Exam Number: 1Z0-830
 <li>Spring Security e Kafka
 </ul>
 
