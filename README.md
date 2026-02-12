@@ -1,4 +1,4 @@
-### <h2>Olá, Eu sou o Wanderson Honorato! 👋<h2/> 
+### Olá, Eu sou o Wanderson Honorato! 👋
 
 💻 Sou desenvolvedor de software com foco em Full Stack (Java/Angular).<br>
 👨🏻‍🎓 Graduando em Engenharia de Software 7º semestre;<br>
@@ -22,8 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
-<br><br><br>
-
+<br><br>
 
 
 ### <p>🚀 Projetos em Destaque</p>
