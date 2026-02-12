@@ -15,7 +15,8 @@
 
 <p align="left">
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,angular,aws,rabbitmq,cypress,docker,git,mysql,postgres,&theme='dark')](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 </p>
 
