@@ -3,6 +3,7 @@
 💻 Sou desenvolvedor de software com foco em Full Stack (Java/Angular).<br>
 👨🏻‍🎓 Graduando em Engenharia de Software 7º semestre;<br>
 🚀 Estou iniciando minha carreira e sempre em busca de novos desafios e aprendizados. Sou uma pessoa dedicada, curiosa e apaixonada por resolver problemas através da tecnologia. 
+<br><br>
 
 <p align="center">
 <strong>Stack tecnologia<strong/><br><br>
