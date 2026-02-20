@@ -26,8 +26,8 @@
 
 ### <p>🚀 Projetos em Destaque</p>
 
-📝 To-Do List<br>
-Aplicação de lista de tarefas com Angular e PostgreSQL. Sistema completo de CRUD.
+📝 Control-Stock<br>
+O Control-Stock é uma aplicação desenvolvida para gerenciar produtos, entradas, saídas e níveis de estoque de forma simples, segura e eficiente.
 
 🔥 Biblioteca Digital<br>
 API REST para gerenciamento de biblioteca digital com funcionalidade de web scraping para importação de livros de sites externos.
