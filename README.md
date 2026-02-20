@@ -27,10 +27,10 @@
 ### <p>🚀 Projetos em Destaque</p>
 
 📝 To-Do List<br>
-Aplicação de lista de tarefas com Angular e PostgreSQL. Sistema completo de CRUD com autenticação JWT.
+Aplicação de lista de tarefas com Angular e PostgreSQL. Sistema completo de CRUD.
 
-🔥 CRUD Java + Angular<br>
-Sistema full stack de gerenciamento de usuários com Spring Boot e Angular. Arquitetura RESTful e boas práticas.
+🔥 Biblioteca Digital<br>
+API REST para gerenciamento de biblioteca digital com funcionalidade de web scraping para importação de livros de sites externos.
 
 🔢 Calculadora de IMC<br>
 Calculadora responsiva de Índice de Massa Corporal com classificação automática.
