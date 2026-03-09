@@ -1,6 +1,6 @@
-<img src="" alt="" width="100%" />
+<img src="/" alt="" width="100%" />
 
-[![Linkedin](https://img.shields.io/badge/linkedin-erik?style=for-the-badge&logo=linkedin&labelColor=%230e76a8&color=%230e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Wanderson-Honorato%2F)](https://www.linkedin.com/in/wanderson-honorato/)
+[![Linkedin](https://img.shields.io/badge/linkedin-erik?style=for-the-badge&logo=linkedin&labelColor=%230e76a8&color=%230e76a8&link=https://www.linkedin.com/in/wanderson-honorato/)](https://www.linkedin.com/in/wanderson-honorato/)
 
 <img src="https://skillicons.dev/icons?i=java,spring-boot,angular,nextjs,nuxtjs,express,php,docker,kubernetes,nginx,mongodb,mysql,postgres,sqlite,js,html,css,nest,aws,gcp,githubactions,firebase,cypress,bitbucket,github,gitlab,deno,electron,materialui,linux,rabbitmq,redis,regex,sass,unreal,tailwind&perline=6" min-width="390px" max-width="390px" width="390px" align="right" alt="Stats">
 
