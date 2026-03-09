@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,maven,idea,git,angular,react,typescript,js,html,css,bootstrap,express,docker,postgres,postman,sqlite,aws,githubactions,cypress,github,gitlab,rabbitmq&perline=5" min-width="400px" max-width="390px" width="390px" align="right" alt="Stats">
 
 
-<h3>💻 Desenvolvedor Full Stack | Java | Spring | Angular.Js | AWS </h3> 
+<h3>💻 Full Stack | Java | Spring | Angular.Js | AWS </h3> 
 
 🎯 Desenvolvedor full stack com cérebro de back-end, olho de designer e <br> sede de criar soluções reais.
 
