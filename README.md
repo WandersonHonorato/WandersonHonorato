@@ -5,10 +5,9 @@
 <img src="https://skillicons.dev/icons?i=java,spring,maven,idea,git,angular,react,typescript,js,html,css,bootstrap,express,docker,postgres,postman,sqlite,aws,githubactions,cypress,github,gitlab,rabbitmq&perline=5" min-width="400px" max-width="390px" width="390px" align="right" alt="Stats">
 
 
-💻 Full Stack Júnior | Java | Spring Boot | Angular.js | AWS <br>
-Desenvolvo soluções performáticas para negócios digitais
+💻 Full Stack Júnior | Java | Spring Boot | Angular.js | AWS Desenvolvo <br> soluções performáticas para negócios digitais
 
-🎯 Desenvolvedor full stack com cérebro de back-end, olho de designer e sede de criar soluções reais.
+🎯 Desenvolvedor full stack com cérebro de back-end, olho de designer e <br> sede de criar soluções reais.
 
 📚 Graduando em Engenharia de Software 6º semestre. <br>
 
