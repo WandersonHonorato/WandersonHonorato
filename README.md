@@ -1,15 +1,15 @@
-<img width="100%" alt="Wanderson-Honorato-Banner" src="https://github.com/user-attachments/assets/5d053698-a817-4f8f-88cb-b091a9f4f4f0" />
-
+<img width="100%" alt="Wanderson-Honorato-Banner" src="https://github.com/user-attachments/assets/238c9f91-9038-4848-9c95-8967e6814979" />
 
 [![Linkedin](https://img.shields.io/badge/linkedin-erik?style=for-the-badge&logo=linkedin&labelColor=%230e76a8&color=%230e76a8&link=https://www.linkedin.com/in/wanderson-honorato/)](https://www.linkedin.com/in/wanderson-honorato/)
 
 <img src="https://skillicons.dev/icons?i=java,spring-boot,angular,nextjs,nuxtjs,express,php,docker,kubernetes,nginx,mongodb,mysql,postgres,sqlite,js,html,css,nest,aws,gcp,githubactions,firebase,cypress,bitbucket,github,gitlab,deno,electron,materialui,linux,rabbitmq,redis,regex,sass,unreal,tailwind&perline=6" min-width="390px" max-width="390px" width="390px" align="right" alt="Stats">
 
-💻 Full Stack Júnior | Java | Spring Boot | Angular.js | AWS | Desenvolvo soluções performáticas para negócios digitais
+💻 Full Stack Júnior | Java | Spring Boot | Angular.js | AWS | <br>
+Desenvolvo soluções performáticas para negócios digitais
 
 🎯 Desenvolvedor full stack com cérebro de back-end, olho de designer e sede de criar soluções reais.
 
-👨🏻‍🎓 Graduando em Engenharia de Software 7º semestre;<br>
+👨🏻‍🎓 Graduando em Engenharia de Software 6º semestre <br>
 
 Com foco em Java 17+ e no ecossistema Spring Framework, com conhecimento e prática de front-end em Angular.Js 15+ e React.js. Tenho conhecimento em arquiteturas monolíticas e microserviços, performáticos e fáceis de evoluir.
 
