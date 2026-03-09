@@ -16,7 +16,7 @@ Foco em Java 17+ e no ecossistema Spring Framework, com conhecimento e prática 
 <p>Minha experiência é com projetos pessoais (acadêmicos) e através de aplicações reais (freelancers), lidando com testes unitários, APIs REST e integrações do front ao back.</p>
 Hoje estou me aprofundando em AWS para tirar minha Certified Cloud Practitioner, e potencializando conceitos Java para tirar minha certificação Java SE 17 Developer Professional Exam Number: 1Z0-830, containerização e IA aplicada ao desenvolvimento, sempre combinando código sólido com design intuitivo.</p>
 
-<p style="font-size: 2px;">💬 "Investir em conhecimento rende sempre os melhores juros."</p>
+<blockquote><p style="font-size: 2px;">💬 "Investir em conhecimento rende sempre os melhores juros."</blockquote></p>
   
 
 
