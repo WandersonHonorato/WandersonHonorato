@@ -23,19 +23,6 @@
 </p>
 <br><br>
 
-
-### <p>🚀 Projetos em Destaque</p>
-
-📝 Control-Stock<br>
-O Control-Stock é uma aplicação desenvolvida para gerenciar produtos, entradas, saídas e níveis de estoque de forma simples, segura e eficiente.
-
-🔥 Biblioteca Digital<br>
-API REST para gerenciamento de biblioteca digital com funcionalidade de web scraping para importação de livros de sites externos.
-
-🔢 Calculadora de IMC<br>
-Calculadora responsiva de Índice de Massa Corporal com classificação automática.
-<br>
-
 ##
 
 💡 Atualmente estudando:<br>
