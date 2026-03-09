@@ -1,59 +1,18 @@
-### Olá, Eu sou o Wanderson Honorato! 👋
+<img src="" alt="" width="100%" />
 
-💻 Sou desenvolvedor de software com foco em Full Stack (Java/Angular).<br>
-👨🏻‍🎓 Graduando em Engenharia de Software 7º semestre;<br>
-🚀 Estou iniciando minha carreira e sempre em busca de novos desafios e aprendizados. Sou uma pessoa dedicada, curiosa e apaixonada por resolver problemas através da tecnologia. 
-<br><br>
+[![Linkedin](https://img.shields.io/badge/linkedin-erik?style=for-the-badge&logo=linkedin&labelColor=%230e76a8&color=%230e76a8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Wanderson-Honorato%2F)](https://www.linkedin.com/in/wanderson-honorato/)
 
-<p align="center">
-<strong>Stack tecnologia<strong/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-</p>
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,spring-boot,angular,nextjs,nuxtjs,express,php,docker,kubernetes,nginx,mongodb,mysql,postgres,sqlite,js,html,css,nest,aws,gcp,githubactions,firebase,cypress,bitbucket,github,gitlab,deno,electron,materialui,linux,rabbitmq,redis,regex,sass,unreal,tailwind&perline=6" min-width="390px" max-width="390px" width="390px" align="right" alt="Stats">
 
-##
+🔧 Full Stack Júnior | Java | Spring Boot | Angular.js | React.js | AWS | Desenvolvo soluções performáticas para negócios digitais
 
-💡 Atualmente estudando:<br>
-<ul>
-<li>Para tirar certificação: WS Certified Cloud Practitioner
-<li>Para tirar certificação: Java SE 21 Developer Professional Exam Number: 1Z0-830
-<li>Spring Security e Kafka
-</ul>
+🎯 Desenvolvedor full-stack com cérebro de back-end, olho de designer e sede de criar soluções reais.
 
-##
+Com foco em Java 17+ e no ecossistema Spring Framework, com conhecimento e prática de front-end em Angular.Js 15+ e React.js. Tenho conhecimento em arquiteturas monolíticas e microserviços, performáticos e fáceis de evoluir.
 
-✍🏻 Contate-me:
-<br>
-<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/275db658-42fb-4395-9803-c2adc550d087" />
-<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/71100247-2d5b-4341-9c5b-9479df95a3a4" />
-<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/2481ae60-1ea5-42c3-b99a-575b12033450" />
-
-##
+Minha experiência é com projetos pessoais (acadêmicos) e  através de aplicações reais (freelancers), lidando com testes unitários, APIs REST e integrações do front ao back. Hoje estou me aprofundando em AWS para tirar minha Certified Cloud Practitioner, me aprofundando em conceitos Java para tirar minha certificação Java SE 17 Developer Professional Exam Number: 1Z0-830, containerização e IA aplicada ao desenvolvimento, sempre combinando código sólido com design intuitivo.
 
 💬 "Investir em conhecimento rende sempre os melhores juros."
-
-
-
-
-
-
-
-
-
-
-
   
 
 
