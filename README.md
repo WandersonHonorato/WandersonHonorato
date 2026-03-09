@@ -1,6 +1,7 @@
 <img width="100%" alt="Wanderson-Honorato-Banner" src="https://github.com/user-attachments/assets/238c9f91-9038-4848-9c95-8967e6814979" />
 
-[![Linkedin](https://img.shields.io/badge/linkedin-erik?style=for-the-badge&logo=linkedin&labelColor=%230e76a8&color=%230e76a8&link=https://www.linkedin.com/in/wanderson-honorato/)](https://www.linkedin.com/in/wanderson-honorato/)
+[![Linkedin](https://img.shields.io/badge/linkedin-wanderson?style=for-the-badge&logo=linkedin&labelColor=%230e76a8&color=%230e76a8&link=https://www.linkedin.com/in/wanderson-honorato/)](https://www.linkedin.com/in/wanderson-honorato/)
+[![Linkedin](https://img.shields.io/badge/linkedin-wanderson?style=for-the-badge&logo=gmail&labelColor=%230e76a8&color=%230e76a8&link=https://www.linkedin.com/in/wanderson-honorato/)](https://www.linkedin.com/in/wanderson-honorato/)
 
 <img src="https://skillicons.dev/icons?i=java,spring,maven,idea,git,angular,react,typescript,js,html,css,bootstrap,express,docker,postgres,postman,sqlite,aws,githubactions,cypress,github,gitlab,rabbitmq&perline=5" min-width="400px" max-width="390px" width="390px" align="right" alt="Stats">
 
