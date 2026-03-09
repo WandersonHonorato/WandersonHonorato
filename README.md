@@ -1,4 +1,4 @@
-<img src="/" alt="" width="100%" />
+<img width="100%" height="50%" alt="a5d09aed-4a7d-4538-8593-c57b140cefb9" src="https://github.com/user-attachments/assets/bf86fbd5-d2cf-4b67-800b-a55db10f49f8" />
 
 [![Linkedin](https://img.shields.io/badge/linkedin-erik?style=for-the-badge&logo=linkedin&labelColor=%230e76a8&color=%230e76a8&link=https://www.linkedin.com/in/wanderson-honorato/)](https://www.linkedin.com/in/wanderson-honorato/)
 
