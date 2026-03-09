@@ -1,4 +1,4 @@
-<img width="100%" alt="ChatGPT Image 9_03_2026, 12_03_15" src="https://github.com/user-attachments/assets/27d12499-b17f-4280-b7cf-cc3c71620d58" />
+<img width="100%" alt="ChatGPT Image 9_03_2026, 12_03_15" src="https://github.com/user-attachments/assets/563b79f8-e180-4f19-a105-51d892bcef38" />
 
 
 [![Linkedin](https://img.shields.io/badge/linkedin-erik?style=for-the-badge&logo=linkedin&labelColor=%230e76a8&color=%230e76a8&link=https://www.linkedin.com/in/wanderson-honorato/)](https://www.linkedin.com/in/wanderson-honorato/)
