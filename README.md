@@ -13,9 +13,9 @@
 
 Foco em Java 17+ e no ecossistema Spring Framework, com conhecimento e prática de front-end em Angular.Js 15+ e React.js. Tenho conhecimento em arquiteturas monolíticas e microserviços, performáticos e fáceis de evoluir.
 
-Minha experiência é com projetos pessoais (acadêmicos) e através de aplicações reais (freelancers), lidando com testes unitários, APIs REST e integrações do front ao back. Hoje estou me aprofundando em AWS para tirar minha Certified Cloud Practitioner, me aprofundando em conceitos Java para tirar minha certificação Java SE 17 Developer Professional Exam Number: 1Z0-830, containerização e IA aplicada ao desenvolvimento, sempre combinando código sólido com design intuitivo.
+<p style="text-align: justify;">Minha experiência é com projetos pessoais (acadêmicos) e através de aplicações reais (freelancers), lidando com testes unitários, APIs REST e integrações do front ao back. Hoje estou me aprofundando em AWS para tirar minha Certified Cloud Practitioner, me aprofundando em conceitos Java para tirar minha certificação Java SE 17 Developer Professional Exam Number: 1Z0-830, containerização e IA aplicada ao desenvolvimento, sempre combinando código sólido com design intuitivo.</p>
 
-💬 "Investir em conhecimento rende sempre os melhores juros."
+💬 "Investir em conhecimento rende sempre os melhores juros." 
   
 
 
