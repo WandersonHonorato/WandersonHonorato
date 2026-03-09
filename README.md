@@ -7,7 +7,7 @@
 
 <h3>💻 Full Stack | Java | Spring | Angular.Js | AWS </h3> 
 
-🎯 Desenvolvedor full stack com cérebro de back-end, olho de designer e <br> sede de criar soluções reais.
+🎯 Desenvolvedor full stack com cérebro de back-end, olho de designer e sede de criar soluções reais.
 
 📚 Graduando em Engenharia de Software 6º semestre. <br>
 
