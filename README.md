@@ -35,7 +35,7 @@
 - AWS para tirar minha Certified Cloud Practitioner<br>
 - Conceitos Java para tirar minha certificação Java SE 17 Developer Professional Exam Number: 1Z0-830<br>
 - Containerização e IA aplicada ao desenvolvimento, sempre combinando código sólido com design intuitivo.</p>
-<br><br>
+<br>
 <blockquote><p style="font-size: 2px;">💬 "Investir em conhecimento rende sempre os melhores juros."</blockquote></p>
 
 
