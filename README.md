@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Wanderson Honorato! 👋
 
-### 💻 Full Stack | Java | Spring | Angular.Js | AWS  
-<br>
+💻 Full Stack | Java | Spring | Angular.Js | AWS  <br>
 🎓 Graduando em Engenharia de Software 6º semestre. <br>
 🎯 Desenvolvedor full stack com cérebro de back-end, olho de designer e sede de criar soluções reais.
 <br><br>
