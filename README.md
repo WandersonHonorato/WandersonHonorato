@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Wanderson Honorato! 👋
 
-💻 Full Stack | Java | Spring | Angular.Js | AWS  <br>
-🎓 Graduando em Engenharia de Software 6º semestre. <br>
+💻 Full Stack | Java | Spring | Node.js | React.js | AWS  <br>
+🎓 Graduando em Engenharia de Software 8º semestre. <br>
 🎯 Desenvolvedor full stack com cérebro de back-end, olho de designer e sede de criar soluções reais.
 <br><br>
 
@@ -9,9 +9,10 @@
 <strong>Stack tecnologia<strong/><br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
